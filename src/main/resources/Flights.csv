@@ -1,0 +1,135 @@
+Date, From-City, To-City, Class-Type, Airline-Name, Available-Seats
+2019-07-14, New York, Lisbon, Economy, American, 42  
+2019-07-14, New York, Lisbon, Business, American, 42
+2019-07-14, New York, Lisbon, First, American, 42
+2019-07-15, New York, Lisbon, Economy, American, 42
+2019-07-15, New York, Lisbon, Business, American, 42  
+2019-07-15, New York, Lisbon, First, American, 42  
+2019-07-16, New York, Lisbon, Economy, American, 42  
+2019-07-16, New York, Lisbon, Business, American, 42  
+2019-07-16, New York, Lisbon, First, American, 42  
+2019-07-14, New York, Lisbon, Economy, British Airways, 42  
+2019-07-14, New York, Lisbon, Business, British Airways, 42  
+2019-07-14, New York, Lisbon, First, British Airways, 42  
+2019-07-15, New York, Lisbon, Economy, British Airways, 42  
+2019-07-15, New York, Lisbon, Business, British Airways, 42  
+2019-07-15, New York, Lisbon, First, British Airways, 42  
+2019-07-16, New York, Lisbon, Economy, British Airways, 42  
+2019-07-16, New York, Lisbon, Business, British Airways, 42  
+2019-07-16, New York, Lisbon, First, British Airways, 42  
+2019-07-14, New York, Lisbon, Economy, American, 42  
+2019-07-14, New York, Lisbon, Business, American, 42  
+2019-07-14, New York, Lisbon, First, American, 42  
+2019-07-15, New York, Lisbon, Economy, American, 42  
+2019-07-15, New York, Lisbon, Business, American, 42  
+2019-07-15, New York, Lisbon, First, American, 42  
+2019-07-16, New York, Lisbon, Economy, American, 42  
+2019-07-16, New York, Lisbon, Business, American, 42  
+2019-07-16, New York, Lisbon, First, American, 42  
+2019-07-14, New York, Lisbon, Economy, TAP Portugal, 42  
+2019-07-14, New York, Lisbon, Business, TAP Portugal, 42  
+2019-07-14, New York, Lisbon, First, TAP Portugal, 42  
+2019-07-15, New York, Lisbon, Economy, TAP Portugal, 42  
+2019-07-15, New York, Lisbon, Business, TAP Portugal, 42  
+2019-07-15, New York, Lisbon, First, TAP Portugal, 42  
+2019-07-16, New York, Lisbon, Economy, TAP Portugal, 42  
+2019-07-16, New York, Lisbon, Business, TAP Portugal, 42  
+2019-07-16, New York, Lisbon, First, TAP Portugal, 42  
+2019-07-14, New York, London, Economy, American, 42  
+2019-07-14, New York, London, Business, American, 42  
+2019-07-14, New York, London, First, American, 42  
+2019-07-15, New York, London, Economy, American, 42  
+2019-07-15, New York, London, Business, American, 42  
+2019-07-15, New York, London, First, American, 42  
+2019-07-16, New York, London, Economy, American, 42  
+2019-07-16, New York, London, Business, American, 42  
+2019-07-16, New York, London, First, American, 42  
+2019-07-14, New York, London, Economy, British Airways, 42  
+2019-07-14, New York, London, Business, British Airways, 42  
+2019-07-14, New York, London, First, British Airways, 42  
+2019-07-15, New York, London, Economy, British Airways, 42  
+2019-07-15, New York, London, Business, British Airways, 42  
+2019-07-15, New York, London, First, British Airways, 42  
+2019-07-16, New York, London, Economy, British Airways, 42  
+2019-07-16, New York, London, Business, British Airways, 42  
+2019-07-16, New York, London, First, British Airways, 42  
+2019-07-14, New York, London, Economy, American, 42  
+2019-07-14, New York, London, Business, American, 42  
+2019-07-14, New York, London, First, American, 42  
+2019-07-15, New York, London, Economy, American, 42  
+2019-07-15, New York, London, Business, American, 42  
+2019-07-15, New York, London, First, American, 42  
+2019-07-16, New York, London, Economy, American, 42  
+2019-07-16, New York, London, Business, American, 42  
+2019-07-16, New York, London, First, American, 42  
+2019-07-14, New York, London, Economy, TAP Portugal, 42  
+2019-07-14, New York, London, Business, TAP Portugal, 42  
+2019-07-14, New York, London, First, TAP Portugal, 42  
+2019-07-15, New York, London, Economy, TAP Portugal, 42  
+2019-07-15, New York, London, Business, TAP Portugal, 42  
+2019-07-15, New York, London, First, TAP Portugal, 42  
+2019-07-16, New York, London, Economy, TAP Portugal, 42  
+2019-07-16, New York, London, Business, TAP Portugal, 42  
+2019-07-16, New York, London, First, TAP Portugal, 42
+2019-07-14, London, New York, Business, American, 42  
+2019-07-14, London, New York, First, American, 42  
+2019-07-15, London, New York, Economy, American, 42  
+2019-07-15, London, New York, Business, American, 42  
+2019-07-15, London, New York, First, American, 42  
+2019-07-16, London, New York, Economy, American, 42  
+2019-07-16, London, New York, Business, American, 42  
+2019-07-16, London, New York, First, American, 42  
+2019-07-14, London, New York, Economy, British Airways, 42  
+2019-07-14, London, New York, Business, British Airways, 42  
+2019-07-14, London, New York, First, British Airways, 42  
+2019-07-15, London, New York, Economy, British Airways, 42  
+2019-07-15, London, New York, Business, British Airways, 42  
+2019-07-15, London, New York, First, British Airways, 42  
+2019-07-16, London, New York, Economy, British Airways, 42  
+2019-07-16, London, New York, Business, British Airways, 42  
+2019-07-16, London, New York, First, British Airways, 42  
+2019-07-14, London, New York, Economy, American, 42  
+2019-07-14, London, New York, Business, American, 42  
+2019-07-14, London, New York, First, American, 42  
+2019-07-15, London, New York, Economy, American, 42  
+2019-07-15, London, New York, Business, American, 42  
+2019-07-15, London, New York, First, American, 42  
+2019-07-16, London, New York, Economy, American, 42  
+2019-07-16, London, New York, Business, American, 42  
+2019-07-16, London, New York, First, American, 42  
+2019-07-14, London, New York, Economy, TAP Portugal, 42  
+2019-07-14, London, New York, Business, TAP Portugal, 42  
+2019-07-14, London, New York, First, TAP Portugal, 42  
+2019-07-15, London, New York, Economy, TAP Portugal, 42  
+2019-07-15, London, New York, Business, TAP Portugal, 42  
+2019-07-15, London, New York, First, TAP Portugal, 42  
+2019-07-16, London, New York, Economy, TAP Portugal, 42  
+2019-07-16, London, New York, Business, TAP Portugal, 42  
+2019-07-16, London, New York, First, TAP Portugal, 42  
+2019-07-14, London, New York, Economy, American, 42  
+2019-07-14, London, New York, Business, American, 42  
+2019-07-14, London, New York, First, American, 42  
+2019-07-15, London, New York, Economy, American, 42  
+2019-07-15, London, New York, Business, American, 42  
+2019-07-15, London, New York, First, American, 42  
+2019-07-16, London, New York, Economy, American, 42  
+2019-07-16, London, New York, Business, American, 42  
+2019-07-16, London, New York, First, American, 42  
+2019-07-14, London, New York, Economy, British Airways, 42  
+2019-07-14, London, New York, Business, British Airways, 42  
+2019-07-14, London, New York, First, British Airways, 42  
+2019-07-15, London, New York, Economy, British Airways, 42  
+2019-07-15, London, New York, Business, British Airways, 42  
+2019-07-15, London, New York, First, British Airways, 42  
+2019-07-16, London, New York, Economy, British Airways, 42  
+2019-07-16, London, New York, Business, British Airways, 42  
+2019-07-16, London, New York, First, British Airways, 42  
+2019-07-14, London, New York, Economy, American, 42  
+2019-07-14, London, New York, Business, American, 42  
+2019-07-14, London, New York, First, American, 42  
+2019-07-15, London, New York, Economy, American, 42  
+2019-07-15, London, New York, Business, American, 42  
+2019-07-15, London, New York, First, American, 42  
+2019-07-16, London, New York, Economy, American, 42  
+2019-07-16, London, New York, Business, American, 42  
+2019-07-16, London, New York, First, American, 42  
