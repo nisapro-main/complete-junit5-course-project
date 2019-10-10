@@ -38,10 +38,15 @@ Note: It's recommended that you create a github account if you don't have one. H
 2) Given that this is a realistic scenario it is recommended that you refactor the main class to improve the overall design
 (DAO.java and Codec.java classes are provided to simplify your refactoring)
 3) Write tests for at least the following scenarios (the more the better):
+
 	3.1) Boundary conditions
+	
 	3.2) search flights use case with any permutation of the input parameters
+	
 	3.3) book use case with any permutation of the input parameters
+	
 	3.4) Loading of the CSV with different contents (empty, with return flights, with one-way flights only, etc)
+	
 	
 Bonus points:
 1) Create a github account so that you can share your project with others (see IJ course lesson X)
