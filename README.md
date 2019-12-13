@@ -20,7 +20,7 @@ By the end of this project you'll be equiped with the skills and experience to t
 The project consists of writing state based tests against a simplified server side sub-system of an online flight reservation system.
 The main class of this sub-system is 'ReservationManager.Java'.
 
-To make the project more realistic, this main class is deliberately poorly designed. As such, it is highly recommended that you use the powerful refactoring features of your preferred IDE (we recommend using IJ - pleasee see the IJ course) to improve the design and implementation of the sub-system as you write your tests.
+To make the project more realistic, this main class is deliberately poorly designed. As such, it is highly recommended that you use the powerful refactoring features of your preferred IDE (we recommend using IJ: pleasee see my IJ course available on udemy here: https://www.udemy.com/course/complete-intellij-idea-2019-course/learn/lecture/15515606#overview) to improve the design and implementation of the sub-system as you write your tests.
 Let your Junit tests guide the design of your system. A simple way to do this is to reason about, desgin and implement the tests for your system and then refactor the production code.
 
 You should strive for nearly 100% test coverage due to the small size of this project.
