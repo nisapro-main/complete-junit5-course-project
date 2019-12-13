@@ -9,10 +9,10 @@
 Online flight reservation system (server side)
 
 --------------------------------
- GOAL
+ OBJECTIVES
 --------------------------------
 To acquire practical experience with Junit 5 by applying the fundamental concepts and techniques taught in the course.
-By the end of this project you'll be uquiped with the skills and experience to tackle with confidence the use of Junit 5 on any real-world Software system using the awesome Junit 5 framework!
+By the end of this project you'll be equiped with the skills and experience to tackle with confidence the use of Junit 5 on any real-world Software system using the awesome Junit 5 framework!
  
 --------------------------------
  DESCRIPTION
